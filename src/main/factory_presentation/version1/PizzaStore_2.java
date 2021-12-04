@@ -1,6 +1,6 @@
 package main.factory_presentation.version1;
 
-import main.factory_presentation.version1.model.Pizza;
+import main.factory_presentation.version1.pizza.Pizza;
 
 public class PizzaStore_2 {
     SimplePizzaFactory factory;

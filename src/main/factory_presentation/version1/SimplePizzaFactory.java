@@ -1,9 +1,9 @@
 package main.factory_presentation.version1;
 
-import main.factory_presentation.version1.model.CheesePizza;
-import main.factory_presentation.version1.model.PepperoniPizza;
-import main.factory_presentation.version1.model.Pizza;
-import main.factory_presentation.version1.model.VeggiePizza;
+import main.factory_presentation.version1.pizza.CheesePizza;
+import main.factory_presentation.version1.pizza.PepperoniPizza;
+import main.factory_presentation.version1.pizza.Pizza;
+import main.factory_presentation.version1.pizza.VeggiePizza;
 
 //Achtung: das hier ist kein Entwurfsmuster, sondern nur ein Programmieridiom (wird oft verwechselt)
 // pizzaStore_2 ist der Client dieser Fabrik, dort kein "new" mehr
