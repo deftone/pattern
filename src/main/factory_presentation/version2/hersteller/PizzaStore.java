@@ -1,6 +1,6 @@
 package main.factory_presentation.version2.hersteller;
 
-import main.factory_presentation.version2.produkte.Pizza;
+import main.factory_presentation.version2.produkt.Pizza;
 
 // Klasse abstract machen ..
 public abstract class PizzaStore {

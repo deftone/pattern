@@ -3,7 +3,7 @@ package main.factory_presentation.version2;
 import main.factory_presentation.version2.hersteller.ChicagoPizzaStore;
 import main.factory_presentation.version2.hersteller.NYPizzaStore;
 import main.factory_presentation.version2.hersteller.PizzaStore;
-import main.factory_presentation.version2.produkte.Pizza;
+import main.factory_presentation.version2.produkt.Pizza;
 
 public class PizzaTestDrive {
 

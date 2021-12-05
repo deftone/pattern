@@ -1,9 +1,9 @@
-package main.factory_presentation.version3.produkte;
+package main.factory_presentation.version3.produkt;
 
-import main.factory_presentation.version3.zutaten.Cheese;
-import main.factory_presentation.version3.zutaten.Dough;
-import main.factory_presentation.version3.zutaten.Sauce;
-import main.factory_presentation.version3.zutaten.Veggies;
+import main.factory_presentation.version3.zutaten_abstract_factory.produkt_familie.Cheese;
+import main.factory_presentation.version3.zutaten_abstract_factory.produkt_familie.Dough;
+import main.factory_presentation.version3.zutaten_abstract_factory.produkt_familie.Sauce;
+import main.factory_presentation.version3.zutaten_abstract_factory.produkt_familie.Veggies;
 
 public abstract class Pizza {
 	String name;

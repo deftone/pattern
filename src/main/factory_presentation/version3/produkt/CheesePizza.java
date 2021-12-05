@@ -1,6 +1,6 @@
-package main.factory_presentation.version3.produkte;
+package main.factory_presentation.version3.produkt;
 
-import main.factory_presentation.version3.zutaten.PizzaIngredientFactory;
+import main.factory_presentation.version3.zutaten_abstract_factory.fabriken.PizzaIngredientFactory;
 
 public class CheesePizza extends Pizza {
 	PizzaIngredientFactory ingredientFactory;

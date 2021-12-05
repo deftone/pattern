@@ -1,6 +1,6 @@
-package main.factory_presentation.version3.hersteller;
+package main.factory_presentation.version3.hersteller_client;
 
-import main.factory_presentation.version3.produkte.Pizza;
+import main.factory_presentation.version3.produkt.Pizza;
 
 public abstract class PizzaStore {
  

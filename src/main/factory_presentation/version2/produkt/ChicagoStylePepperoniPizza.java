@@ -1,4 +1,4 @@
-package main.factory_presentation.version2.produkte;
+package main.factory_presentation.version2.produkt;
 
 public class ChicagoStylePepperoniPizza extends Pizza {
 	public ChicagoStylePepperoniPizza() {

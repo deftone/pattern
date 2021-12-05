@@ -1,8 +1,8 @@
 package main.factory_presentation.version3;
 
-import main.factory_presentation.version3.hersteller.NYPizzaStore;
-import main.factory_presentation.version3.hersteller.PizzaStore;
-import main.factory_presentation.version3.produkte.Pizza;
+import main.factory_presentation.version3.hersteller_client.NYPizzaStore;
+import main.factory_presentation.version3.hersteller_client.PizzaStore;
+import main.factory_presentation.version3.produkt.Pizza;
 
 public class PizzaTestDrive {
  
